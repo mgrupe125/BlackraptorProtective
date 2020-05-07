@@ -1,0 +1,9 @@
+Server=sql29409.db.10825756.hostedresource.com;Database=sql29409;Uid=sql29409;Pwd=Aa3969889!
+
+
+FTP Server
+==========
+Host: test.brprotective.com
+User: blackraptor
+Password: Aa3969889!
+Port: 21
